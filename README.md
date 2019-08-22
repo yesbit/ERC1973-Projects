@@ -1,7 +1,5 @@
 # ERC1973-Projects
 
-http://1973alliance.com/
-
 This repository is a collection of projects and applications built on ERC 1973 standard. 
 
 ## steps for submission 
@@ -18,3 +16,8 @@ This repository is a collection of projects and applications built on ERC 1973 s
 * no additional information is necessary than the ones mentioned in example.md
 * don't forget to put a url or github or presentation link to your project 
 
+## ERC 1973 links
+
+* website -  http://1973alliance.com/
+
+* ethereum eips - https://eips.ethereum.org/EIPS/eip-1973
