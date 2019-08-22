@@ -1,7 +1,8 @@
 # ERC1973-Projects
 
-This repository is a collection of projects and applications built on ERC 1973 standard. 
+http://1973alliance.com/
 
+This repository is a collection of projects and applications built on ERC 1973 standard. 
 
 ## steps for submission 
 
