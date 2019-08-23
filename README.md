@@ -16,14 +16,14 @@ This repository is a collection of projects and applications built on ERC 1973 s
 * no additional information is necessary than the ones mentioned in example.md
 * don't forget to put a url or github or presentation link to your project 
 
-## ERC 1973 links
-
-* website -  http://1973alliance.com/
-
-* ethereum eips - https://eips.ethereum.org/EIPS/eip-1973
-
 ## libraries for smart contract interaction 
 
 * web3.js - https://github.com/ethereum/wiki/wiki/JavaScript-API
 
 * ethers.js - https://docs.ethers.io/ethers.js/html/getting-started.html
+
+## ERC 1973 links
+
+* website -  http://1973alliance.com/
+
+* ethereum eips - https://eips.ethereum.org/EIPS/eip-1973
