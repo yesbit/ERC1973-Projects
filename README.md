@@ -27,3 +27,7 @@ This repository is a collection of projects and applications built on ERC 1973 s
 * website -  http://1973alliance.com/
 
 * ethereum eips - https://eips.ethereum.org/EIPS/eip-1973
+
+## Discussions 
+
+* ethereum-magicians - https://ethereum-magicians.org/t/asking-feedback-eip-1973-scalable-rewards/3605
