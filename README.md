@@ -31,3 +31,5 @@ This repository is a collection of projects and applications built on ERC 1973 s
 ## Discussions 
 
 * ethereum-magicians - https://ethereum-magicians.org/t/asking-feedback-eip-1973-scalable-rewards/3605
+
+* Github - https://github.com/ethereum/EIPs/pull/1973
