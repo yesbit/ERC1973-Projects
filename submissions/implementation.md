@@ -4,9 +4,7 @@
 
 Make sure to use the ERC 1973 contract along with any open zepplin dependencies. Currently, you will have to extract the code form the EIP itself. Once you have the code base, there are two ways in which you can develop your application:
 
-* Using Truffle (recommended)
-
-Use ERC 1973 as one of your smart contracts. You can then import the ERC 1973 into your other contracts OR create an interface to interact with it. 
+* Using Truffle (recommended) - use ERC 1973 as one of your smart contracts. You can then import the ERC 1973 into your other contracts OR create an interface to interact with it. 
 
 * Using Remix 
 
