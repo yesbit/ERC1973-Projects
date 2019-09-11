@@ -8,7 +8,7 @@ Make sure to use the ERC 1973 contract along with any open zepplin dependencies.
 
 * Using Remix 
 
-# Test Cases 
+## Test Cases 
 
 Test cases are mandatory for any implementation.
 
