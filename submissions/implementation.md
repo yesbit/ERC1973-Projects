@@ -10,7 +10,7 @@ Use ERC 1973 as one of your smart contracts. You can then import the ERC 1973 in
 
 * Using Remix 
 
-# Test Cases 
+## Test Cases 
 
 Test cases are mandatory for any implementation.
 
