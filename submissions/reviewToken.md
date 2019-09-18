@@ -7,7 +7,7 @@ Problem specification related to ERC 1973:
 Most of the times, consumers leave a review about any service the receive when they are not satisfied, and if they are, there is no reward for spending time to leave a review. 
 
 Solution in relation to ERC 1973:
-This application reward reviewers with token, which can be redeemed in the same service provider or other ones. "like"s or "dislike"s of reviews will be awwarded too.
+This application rewards reviewers with tokens, which can be redeemed in the same service provider or other ones. "like"s or "dislike"s of reviews will be awarded too.
 
 Related Links:
 https://github.com/MattSaeeda/reviewToken.git
