@@ -8,11 +8,12 @@ Crowdsourcing is a sourcing model in which individuals or organizations obtain g
 
 # Problem specification related to ERC 1973
 
-Participating users in the  network need to be incentivized when contributing good and services. When the nodes in the network reach a higher limit (100s, 1000s), reward distribution which may be in the form of an ICO faces a bottleneck due to block gas limit.  
+Participating users in the  network need to be incentivized for there contribution .As the number of donors increases the push request can become an infeasible solution as the gas limit becomes the bottleneck.We can use the milestones as a form of trigger point
+in our system for reward distribution.
 
 # Solution in relation to ERC 1973 
 
-Sound application of ERC 1973 allows reward distribution in a scalable manner to all the partcipating nodes. 
+The ERC 1973 takes care of the reward distribution by performing  pull request and helps us to scale better
 
 # Related Links
 
