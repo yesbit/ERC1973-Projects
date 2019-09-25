@@ -16,7 +16,7 @@ Every 6 months a reward will be distributed to all investor who has shares. Howe
 
 # Solution in relation to ERC 1973 
 
-Application of ERC 1973 allows ERC20 reward distribution in a scalable manner to all the participating investors throughout the reward period. Every six months the rewards are minted as ERC 1400 security tokens and the amount of rewards will be calculated per investors at the time the reward is minted depending on how many investors participated. Once the investor withdraws his share, the total rewards will be calculated depending on when he started his investment together with the investment amount.
+Application of ERC 1973 allows ERC 1400 reward distribution in a scalable manner to all the participating investors throughout the reward period. Every six months the rewards are minted as ERC 1400 security tokens and the amount of rewards will be calculated per investors at the time the reward is minted depending on how many investors participated. Once the investor withdraws his share, the total rewards will be calculated depending on when he started his investment together with the investment amount.
 
 A sample of rewards distribution is as per below based on 100,000 tokens minted for each round:
 
