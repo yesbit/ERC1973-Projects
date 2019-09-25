@@ -19,12 +19,19 @@ Every 6 months a reward will be distributed to all investor who has shares. Howe
 Application of ERC 1973 allows ERC20 reward distribution in a scalable manner to all the participating investors throughout the reward period. Every six months the rewards are minted as ERC 1400 security tokens and the amount of rewards will be calculated per investors at the time the reward is minted depending on how many investors participated. Once the investor withdraws his share, the total rewards will be calculated depending on when he started his investment together with the investment amount.
 
 A sample of rewards distribution is as per below based on 100,000 tokens minted for each round:
+
 6th Month (100 participants) - Rewards per participant: 1000 (100,000/100)
+
 12th Month (500 participants) - Rewards per participant: 200 (100,000/500)
+
 18th Month (2000 participants) - Rewards per participant: 50 (100,000/2000)
+
 24th Month (5000 participants) - Rewards per participant: 20 (100,000/5000)
+
 30th Month (10000 participants) - Rewards per participant: 10 (100,000/10000)
+
 36th Month (20000 participants) - Rewards per participant: 5 (100,000/20000)
+
 
 # Related Links
 
