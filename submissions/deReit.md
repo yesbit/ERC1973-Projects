@@ -21,9 +21,10 @@ Application of ERC 1973 allows ERC20 reward distribution in a scalable manner to
 A sample of rewards distribution is as per below based on 100,000 tokens minted for each round:
 6th Month (100 participants) - Rewards per participant: 1000 (100,000/100)
 12th Month (500 participants) - Rewards per participant: 200 (100,000/500)
-24th Month (2000 participants) - Rewards per participant: 50 (100,000/2000)
-30th Month (5000 participants) - Rewards per participant: 20 (100,000/5000)
-36th Month (10000 participants) - Rewards per participant: 10 (100,000/10000)
+18th Month (2000 participants) - Rewards per participant: 50 (100,000/2000)
+24th Month (5000 participants) - Rewards per participant: 20 (100,000/5000)
+30th Month (10000 participants) - Rewards per participant: 10 (100,000/10000)
+36th Month (20000 participants) - Rewards per participant: 5 (100,000/20000)
 
 # Related Links
 
