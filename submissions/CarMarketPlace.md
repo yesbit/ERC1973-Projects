@@ -8,12 +8,21 @@ Special car marketplace when a buyer buy an expensive car, they have opportunity
 
 # Problem specification related to ERC 1973
 
-it is necessary to create some reward to customers in car marketplace.
+Network model of car marketplace now regulated by a third party, platform users must comply with terms set by the third party.
+
+Payments are using payment systems or credit card transactions. They charges a percentage of every transaction.
+
+There is a lack of incentives for customer to buy luxury car.
 
 # Solution in relation to ERC 1973 
 
-When a seller buy a car >= 500.000 $. They can join nodes of ERC 1973 and can receive rewards. This reward will incentive the revenue of 
-car company.
+Decentralized network model.
+
+Direct payment by cryptocurrency (token), which can be exchanged for ETH.
+
+Low fee transaction validation. Payments are instant and don’t require any intermediary.
+
+When a seller buy a car >= 500.000 $. They can join nodes of ERC 1973 and can receive rewards. This reward will incentive the revenue of car company.
 
 # Related Links
 
