@@ -7,7 +7,7 @@ Crowdsourcing is a sourcing model in which individuals or organizations obtain g
 
 
 # Problem specification related to ERC 1973
-Currently crowdfunding follow a centralised approach which lead's to a single point of failure Participating users in the  network need to be incentivized for there contribution .As the number of donors increases the push request can become an infeasible solution as the gas limit becomes the bottleneck.We can use the milestones as a form of trigger point "in our system for reward distribution.The users in the current model incentivised prepurchase products, buy experiences.
+Currently crowdfunding follow a centralised approach which lead's to a single point of failure Participating users in the  network need to be incentivized for there contribution .As the number of donors increases the push request can become an infeasible solution as the gas limit becomes the bottleneck.We can use the milestones as a form of trigger point "in our system for reward distribution.The users in the current model incentivised prepurchase products, buy experience.
 
 # Solution in relation to ERC 1973 
 
