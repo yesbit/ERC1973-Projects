@@ -7,20 +7,16 @@ Crowdsourcing is a sourcing model in which individuals or organizations obtain g
 
 
 # Problem specification related to ERC 1973
-
-Participating users in the  network need to be incentivized for there contribution .As the number of donors increases the push request can become an infeasible solution as the gas limit becomes the bottleneck.We can use the milestones as a form of trigger point
-in our system for reward distribution.
+Currently crowdfunding follow a centralised approach which lead's to a single point of failure Participating users in the  network need to be incentivized for there contribution .As the number of donors increases the push request can become an infeasible solution as the gas limit becomes the bottleneck.We can use the milestones as a form of trigger point "in our system for reward distribution.The users in the current model incentivised prepurchase products, buy experiences.
 
 # Solution in relation to ERC 1973 
 
-The ERC 1973 takes care of the reward distribution by performing  pull request and helps us to scale better
+By using the ERC1973 we are able to move it to a decentralised model.The ERC1973 takes care of the reward distribution by performing pull request thus helps in scaling of the network.The users are incentivised by ERC20 tokens for there contribution.
 
 # Related Links
 
 * https://github.com/jagpreetsingh796/ERC1973-Projects.git
 
 
-# Additional Notes 
 
- 1973 is the next big thing in ERC application layer!
 
