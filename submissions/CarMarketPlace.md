@@ -22,7 +22,17 @@ Direct payment by cryptocurrency (token), which can be exchanged for ETH.
 
 Low fee transaction validation. Payments are instant and don’t require any intermediary.
 
-When a seller buy a car >= 500.000 $. They can join nodes of ERC 1973 and can receive rewards. This reward will incentive the revenue of car company.
+When a seller buy a car >= 100.000 $. They can join nodes of ERC 1973 and can receive rewards. This reward will incentive the revenue of car company.
+
+A sample of rewards distribution is as per below based on 100% value of the car they bought for each round:
+
+6th Month (10 participants) - Rewards per participant: 10% (100%/10)
+
+12th Month (20 participants) - Rewards per participant: 5% (100%/20)
+
+18th Month (50 participants) - Rewards per participant: 2% (100%/50)
+
+24th Month (100 participants) - Rewards per participant: 1% (100%/100)
 
 # Related Links
 
