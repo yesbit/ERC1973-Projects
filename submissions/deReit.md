@@ -35,8 +35,8 @@ A sample of rewards distribution is as per below based on 100,000 tokens minted 
 
 # Related Links
 
-* Github repo for the project
-* Wesbite link
-* Canadaian REITs - http://www.sfu.ca/~poitras/417_REITS_14-2.pdf
+* Github repo: https://github.com/abielvillarosa/Decentralized-REIT
+* Wesbite link: TBD
+* Canadian REIT Documentation - http://www.sfu.ca/~poitras/417_REITS_14-2.pdf
 
 # Additional Notes 
