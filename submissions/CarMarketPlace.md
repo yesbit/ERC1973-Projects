@@ -36,7 +36,7 @@ A sample of rewards distribution is as per below based on 10% value of the car t
 
 # Related Links
 
-* Github repo for the project
+* Github repo for the project https://github.com/GiaLuongNgo/CarMarketPlace
 * Wesbite link
 
 # Additional Notes 
