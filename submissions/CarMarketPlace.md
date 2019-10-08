@@ -24,15 +24,15 @@ Low fee transaction validation. Payments are instant and don’t require any int
 
 When a seller buy a car >= 100.000 $. They can join nodes of ERC 1973 and can receive rewards. This reward will incentive the revenue of car company.
 
-A sample of rewards distribution is as per below based on 100% value of the car they bought for each round:
+A sample of rewards distribution is as per below based on 10% value of the car they bought for each round:
 
-6th Month (10 participants) - Rewards per participant: 10% (100%/10)
+6th Month (2 participants) - Rewards per participant: 5% (10%/2)
 
-12th Month (20 participants) - Rewards per participant: 5% (100%/20)
+12th Month (5 participants) - Rewards per participant: 2% (10%/5)
 
-18th Month (50 participants) - Rewards per participant: 2% (100%/50)
+18th Month (10 participants) - Rewards per participant: 1% (10%/10)
 
-24th Month (100 participants) - Rewards per participant: 1% (100%/100)
+24th Month (20 participants) - Rewards per participant: 0.5% (10%/20)
 
 # Related Links
 
