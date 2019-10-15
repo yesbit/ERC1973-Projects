@@ -15,7 +15,7 @@ By using the ERC1973 we are able to move it to a decentralised model.The ERC1973
 
 # Related Links
 
-* https://github.com/jagpreetsingh796/ERC1973-Projects.git
+* https://github.com/jagpreetsingh796/CrowdVacation.git
 
 
 
