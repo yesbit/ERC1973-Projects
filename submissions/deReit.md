@@ -41,9 +41,13 @@ A sample of rewards distribution is as per below based on 1,000 tokens minted fo
 
 # Additional Notes 
 * Testing Instructions:
+  
   TestNet Deployed: Ropsten
+  
   Token Contract Address: 0x9F83fe7891429e1D674E8C0bfbC6A7Fc9EdA2B0B
+  
   Main Contract Address: 0x563f1B58BD6f91B30F0f16A9767B3989DA8BF3Cb
+  
   Steps:
   1) Register as Investor - This button registers the account as minter
   2) Claim Reward - This button will trigger the trigger() function to calculate round mask
